@@ -1,0 +1,61 @@
+{
+  "id": "f4180ad2-0d15-474f-ae04-f7658305084e",
+  "uid": "sed-blanditiis-dolor",
+  "type": "posts",
+  "data": {
+    "title": "unleash interactive eyeballs",
+    "subtitle": "syndicate interactive channels",
+    "author": "implement dot-com relationships",
+    "banner": {
+      "dimensions": {
+        "width": 900,
+        "height": 500
+      },
+      "alt": "Placeholder image",
+      "copyright": null,
+      "url": "https://images.unsplash.com/photo-1600861194802-a2b11076bc51?w=900&h=500&fit=crop"
+    },
+    "content": [
+      {
+        "heading": "whiteboard bricks-and-clicks schemas",
+        "body": [
+          {
+            "type": "paragraph",
+            "text": "Enim labore sunt do qui voluptate ex et. Cillum fugiat do irure do veniam consectetur nulla nisi veniam elit dolor incididunt reprehenderit anim incididunt.",
+            "spans": []
+          }
+        ]
+      },
+      {
+        "heading": "scale end-to-end e-tailers",
+        "body": [
+          {
+            "type": "paragraph",
+            "text": "Adipisicing nulla fugiat ad velit reprehenderit cillum nostrud. Tempor ut duis nulla cillum consequat ullamco ex sint consectetur eiusmod nulla consectetur.",
+            "spans": []
+          }
+        ]
+      },
+      {
+        "heading": "grow efficient platforms",
+        "body": [
+          {
+            "type": "paragraph",
+            "text": "Pariatur nulla ullamco enim est fugiat sunt consequat. Non do et laborum laborum qui dolore adipisicing adipisicing laboris sit.",
+            "spans": []
+          }
+        ]
+      },
+      {
+        "heading": "harness rich technologies",
+        "body": [
+          {
+            "type": "paragraph",
+            "text": "Deserunt dolore aute et velit aliqua fugiat ipsum labore nostrud dolor excepteur.",
+            "spans": []
+          }
+        ]
+      }
+    ]
+  }
+}
